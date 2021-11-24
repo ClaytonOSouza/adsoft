@@ -2,7 +2,7 @@
 # https://github.com/andreyev/prometheus_hands-on/blob/demo/demo/Dockerfile
 # Thanks Andreyev ;-)
 
-FROM python:3
+FROM python:3.10.0b2
 # Base image
 
 # Image Information
